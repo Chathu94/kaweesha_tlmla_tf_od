@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0340c9cf050faab6.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\0340c9cf050faab6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>83</width>
+		<height>35</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>5</ymin>
+			<xmax>75</xmax>
+			<ymax>28</ymax>
+		</bndbox>
+	</object>
+</annotation>
